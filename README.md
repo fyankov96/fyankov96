@@ -10,7 +10,7 @@ This portfolio showcases projects I’ve worked on to enhance detection, respons
 
 ## 🚨 Threat Hunting and Security Operations - TODO
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- 
 
 <hr/>
 
