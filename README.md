@@ -17,9 +17,9 @@ This portfolio showcases projects I’ve worked on to enhance detection, respons
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/___________
+[linkedin]: https://linkedin.com/in/fyankov
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
