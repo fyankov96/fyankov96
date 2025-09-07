@@ -8,7 +8,7 @@ This portfolio showcases projects I’ve worked on to enhance detection, respons
 
 - **[Vulnerability Management Program](https://github.com/fyankov96/vulnerability-management-program)**
 
-## 🚨 Threat Hunting and Security Operations - TODO
+## 🚨 Threat Hunting and Security Operations
 
 - **[Agentic SOC Analyst](https://github.com/fyankov96/agentic-soc-analyst/tree/main)**
 
