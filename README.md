@@ -10,7 +10,7 @@ This portfolio showcases projects I’ve worked on to enhance detection, respons
 
 ## 🚨 Threat Hunting and Security Operations - TODO
 
-- 
+- **[Agentic SOC Analyst](https://github.com/fyankov96/agentic-soc-analyst/tree/main)**
 
 <hr/>
 
