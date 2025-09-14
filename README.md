@@ -17,10 +17,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-# <a href="https://www.linkedin.com/in/fyankov/">Filip Yankov</a>'s Cloud & Cybersecurity Portfolio ☁️🔐
-
-Hi, I’m Filip — a Security Engineer with hands-on experience in Azure security, SIEM/EDR implementations, and security automation.
-
 This portfolio showcases projects I’ve worked on to enhance detection, response, and governance in modern cloud and hybrid environments.
 
 ## ⚠️ Vulnerability Management Projects
