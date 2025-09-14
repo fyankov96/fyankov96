@@ -17,7 +17,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-This portfolio showcases projects I’ve worked on to enhance detection, response, and governance in modern cloud and hybrid environments.
+# <a href="https://www.linkedin.com/in/fyankov/">Filip Yankov</a>'s Cloud & Cybersecurity Portfolio ☁️🔐
 
 ## ⚠️ Vulnerability Management Projects
 
